@@ -1,0 +1,14 @@
+/Users/burnt/Desktop/Workstation/dev/Encrypt/AES256CBC/bin/Debug/net10.0/AES256CBC
+/Users/burnt/Desktop/Workstation/dev/Encrypt/AES256CBC/bin/Debug/net10.0/AES256CBC.deps.json
+/Users/burnt/Desktop/Workstation/dev/Encrypt/AES256CBC/bin/Debug/net10.0/AES256CBC.runtimeconfig.json
+/Users/burnt/Desktop/Workstation/dev/Encrypt/AES256CBC/bin/Debug/net10.0/AES256CBC.dll
+/Users/burnt/Desktop/Workstation/dev/Encrypt/AES256CBC/bin/Debug/net10.0/AES256CBC.pdb
+/Users/burnt/Desktop/Workstation/dev/Encrypt/AES256CBC/obj/Debug/net10.0/AES256CBC.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burnt/Desktop/Workstation/dev/Encrypt/AES256CBC/obj/Debug/net10.0/AES256CBC.AssemblyInfoInputs.cache
+/Users/burnt/Desktop/Workstation/dev/Encrypt/AES256CBC/obj/Debug/net10.0/AES256CBC.AssemblyInfo.cs
+/Users/burnt/Desktop/Workstation/dev/Encrypt/AES256CBC/obj/Debug/net10.0/AES256CBC.csproj.CoreCompileInputs.cache
+/Users/burnt/Desktop/Workstation/dev/Encrypt/AES256CBC/obj/Debug/net10.0/AES256CBC.dll
+/Users/burnt/Desktop/Workstation/dev/Encrypt/AES256CBC/obj/Debug/net10.0/refint/AES256CBC.dll
+/Users/burnt/Desktop/Workstation/dev/Encrypt/AES256CBC/obj/Debug/net10.0/AES256CBC.pdb
+/Users/burnt/Desktop/Workstation/dev/Encrypt/AES256CBC/obj/Debug/net10.0/AES256CBC.genruntimeconfig.cache
+/Users/burnt/Desktop/Workstation/dev/Encrypt/AES256CBC/obj/Debug/net10.0/ref/AES256CBC.dll

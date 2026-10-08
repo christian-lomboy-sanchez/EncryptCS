@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "AES256CBC/1.0.0": {
+        "runtime": {
+          "AES256CBC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AES256CBC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
